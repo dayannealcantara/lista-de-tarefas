@@ -7,7 +7,7 @@ export const Container = styled.div`
 export const Wrapper = styled.div`
   margin:auto;
   max-width:980px;
-  padding:10px; 
+  padding:10px;  
 `;
 export const Header = styled.h1`
   margin:0;
